@@ -587,5 +587,4 @@ async def on_message(message):
     if content.startswith("-"):
         message.content = "!" + content
     await bot.process_commands(message)
-
-bot.run(MTQ4MDMyODUxNTM0MDczNDcwNw.G38a5c.6ndGJFVOdokXDJctMOcF4Gq0RPiLDTGQ7-G-7M)
+bot.run(os.getenv("TOKEN"))
