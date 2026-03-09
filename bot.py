@@ -8,7 +8,7 @@ import asyncio
 from datetime import datetime, timedelta
 
 # ─── Config ───────────────────────────────────────────────────────────────────
-TOKEN = "MTQ4MDMyODUxNTM0MDczNDcwNw.GYDXIU.Lw-LZwESBAGYxL2MBolooIb2rcd6KpOD_SKXiE"
+TOKEN = "MTQ4MDMyODUxNTM0MDczNDcwNw.G38a5c.6ndGJFVOdokXDJctMOcF4Gq0RPiLDTGQ7-G-7M"
 CURRENCY = "m00d"
 COLLECT_AMOUNT = 1000
 COLLECT_COOLDOWN = 30 * 60  # 30 minutes in seconds
